@@ -1,5 +1,6 @@
 ---
-description: Turn a meaningful fixed bug into a concise learning diagnosis.
+name: autopsy
+description: Turns a meaningful resolved bug into a concise learning diagnosis. Use after fixing a non-trivial bug to improve the learner's mental model and prevention habits.
 ---
 
 # Bug Autopsy

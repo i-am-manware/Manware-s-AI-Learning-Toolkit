@@ -1,5 +1,6 @@
 ---
-description: Explore design space: compare alternatives, then test them with constraints.
+name: explore
+description: Explores genuinely different designs and stress-tests them with changing constraints. Use when comparing approaches or examining tradeoffs in a working design.
 ---
 
 # Design Exploration

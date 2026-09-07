@@ -1,5 +1,6 @@
 ---
-description: Run a short daily retrieval session using the learner's past logs.
+name: retrieve
+description: Runs short retrieval practice from the learner's saved learning logs. Use for a coding-session warm-up or spaced review of previously learned material.
 ---
 
 # Retrieval Review
