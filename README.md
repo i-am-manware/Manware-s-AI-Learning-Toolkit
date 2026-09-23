@@ -25,7 +25,7 @@ AI never writes the solution for you. It asks questions, gives small hints, and 
 3. In the Customizations panel, activate `learning-companion.md` as an **Always On** workspace rule.
 4. Open a workflow rule manually or reference it with an `@` mention, such as `@.agents/rules/workflows/hint.md`.
 5. **Answer the questions** Antigravity asks you. Don't skip them — that's where the learning happens.
-5. **Write the code yourself.** AI will guide, not write.
+6. **Write the code yourself.** AI will guide, not write.
 
 > **Tip:** Keep Antigravity in a review-oriented mode while learning. Avoid autonomous implementation until you explicitly choose shipping mode.
 
