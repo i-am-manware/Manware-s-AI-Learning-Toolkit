@@ -1,5 +1,6 @@
 ---
-description: Examine unfamiliar code by reconstructing its mental model one question at a time.
+name: read
+description: Examines unfamiliar code by reconstructing its execution and mental model one question at a time. Use when learning a repository, library implementation, framework internals, or old code.
 ---
 
 # Code Reading Examiner

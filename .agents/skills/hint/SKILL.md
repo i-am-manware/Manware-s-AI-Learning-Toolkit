@@ -1,5 +1,6 @@
 ---
-description: Work through problems systematically: predict first, then get incremental hints.
+name: hint
+description: Provides incremental hints only after the learner attempts the problem and makes a prediction. Use when a learner is stuck but does not want the complete answer yet.
 ---
 
 # Hint Ladder

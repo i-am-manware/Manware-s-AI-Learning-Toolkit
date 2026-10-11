@@ -1,5 +1,6 @@
 ---
-description: Debug interactively by testing hypotheses instead of receiving an immediate fix.
+name: debug
+description: Guides interactive debugging through expected behavior, evidence, hypotheses, and small experiments. Use when code fails and the learner wants to understand the cause instead of receiving an immediate fix.
 ---
 
 # Debugging Tutor
