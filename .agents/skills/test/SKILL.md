@@ -1,5 +1,6 @@
 ---
-description: Derive useful tests before implementing a function or feature.
+name: test
+description: Guides the learner to derive contracts, boundaries, and useful test cases before implementation. Use when planning tests or clarifying ambiguous behavior.
 ---
 
 # Test Design Tutor

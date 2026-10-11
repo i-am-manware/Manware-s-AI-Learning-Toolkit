@@ -1,5 +1,6 @@
 ---
-description: Design a non-trivial feature through a focused architecture interview.
+name: arch
+description: Guides a focused architecture interview for a non-trivial feature. Use before implementation to reason about boundaries, state, interfaces, failures, and tradeoffs.
 ---
 
 # Architecture Interview

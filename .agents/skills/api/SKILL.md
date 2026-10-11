@@ -1,5 +1,6 @@
 ---
-description: Learn an API by investigating its purpose, assumptions, tradeoffs, and failure modes.
+name: api
+description: Guides API learning through purpose, assumptions, alternatives, tradeoffs, and failure modes. Use when learning a library, framework, SDK, or unfamiliar API.
 ---
 
 # API Discovery

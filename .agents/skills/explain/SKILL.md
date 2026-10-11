@@ -1,5 +1,6 @@
 ---
-description: Test understanding by having the learner explain a concept from memory.
+name: explain
+description: Tests understanding through a teach-back explanation, example, and boundary case. Use when a learner wants to verify that they truly understand a concept.
 ---
 
 # Teach-Back Examiner

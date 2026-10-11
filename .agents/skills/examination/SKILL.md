@@ -1,6 +1,6 @@
 ---
 name: examination
-description: Test understanding through prediction, explanation, application, and transfer.
+description: Supplies a reusable examination protocol based on prediction, explanation, application, and transfer. Use when another learning skill or custom agent needs to assess understanding.
 ---
 
 Ask one question at a time and wait for a committed answer. Mix execution predictions, why questions, edge cases, comparisons, and novel applications. Correct the smallest misconception first; do not reward recognition of an answer as proof of understanding.
