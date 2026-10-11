@@ -1,4 +1,5 @@
 ---
+name: roadmap
 description: Create, update, and traverse a milestone-driven learning roadmap.
 ---
 
@@ -28,7 +29,7 @@ When the learner says "start", "resume", "where did we stop?", or asks to contin
 2. Find the last topic marked `[x]` (completed) or `[-]` (in progress).
 3. If the current topic is verified complete, change its status to `[x]` with a completion timestamp.
 4. Set the immediately following topic to `[-]` (in progress).
-5. State the active topic, its prerequisite goals, and recommend the right starter workflow (e.g. `@explain.md` for theory, `@arch.md` for system design, or `@test.md` for implementations).
+5. State the active topic, its prerequisite goals, and recommend the right starter skill (e.g. `explain` for theory, `arch` for system design, or `test` for implementations).
 
 ## Mode 3: Milestone Verification
 Before marking any topic as `[x]`:
